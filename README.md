@@ -1,2 +1,3 @@
 # new_repo
-my_experiments
+I want to explore more about github 
+
